@@ -10,3 +10,5 @@ This lab calculates the probability of getting a ceratin outcome when rolling a 
 Example: 
 - P(6) = 1/6
 - P(even) = 3/6 = 0.50
+
+- Lab 2: Added user input to choose a target number on the dice. Update by Elham Zamar
